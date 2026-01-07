@@ -1,0 +1,502 @@
+[
+    {
+      "id": 1,
+      "issue": "Should Congress tie the continuation of government funding to specific policy changes, such as extending subsidies under the Affordable Care Act?",
+      "category": ["Budget", "Healthcare"]
+    },
+    {
+      "id": 2,
+      "issue": "Is the prolonged government shutdown primarily a result of legitimate policy disputes or destructive partisan brinkmanship?",
+      "category": ["Budget", "Governance"]
+    },
+    {
+      "id": 3,
+      "issue": "Should the federal government prioritize deficit reduction by making significant cuts to entitlement programs like Medicaid?",
+      "category": ["Budget", "Healthcare"]
+    },
+    {
+      "id": 4,
+      "issue": "What is the appropriate balance between executive power (governing by executive order) and congressional authority in the legislative process?",
+      "category": ["Executive Power", "Governance"]
+    },
+    {
+      "id": 5,
+      "issue": "How should the government handle the investigation and public disclosure of documents related to high-profile cases like that of Jeffrey Epstein?",
+      "category": ["Judiciary", "Transparency"]
+    },
+    {
+      "id": 6,
+      "issue": "To what extent should the principle of 'birthright citizenship' under the 14th Amendment be reinterpreted or restricted?",
+      "category": ["Immigration", "Constitutional Law"]
+    },
+    {
+      "id": 7,
+      "issue": "Is providing continued military aid to Ukraine in its national interest, or does it represent an undesirable overseas entanglement?",
+      "category": ["Foreign Policy", "Defense"]
+    },
+    {
+      "id": 8,
+      "issue": "What constitutes legitimate political protest versus 'domestic terrorism' or 'organized political violence' that warrants federal investigation?",
+      "category": ["Civil Liberties", "Law Enforcement"]
+    },
+    {
+      "id": 9,
+      "issue": "Should the executive branch have the authority to permanently terminate federal employees and agencies during a government shutdown?",
+      "category": ["Executive Power", "Governance"]
+    },
+    {
+      "id": 10,
+      "issue": "How should the government address the economic and social disruptions caused by repeated federal government shutdowns?",
+      "category": ["Economy", "Governance"]
+    },
+    {
+      "id": 11,
+      "issue": "Is it appropriate for the executive branch to target and defund projects primarily located in political opponents' districts during a budget impasse?",
+      "category": ["Budget", "Partisanship"]
+    },
+    {
+      "id": 12,
+      "issue": "What role should the Supreme Court, with its current conservative majority, play in adjudicating disputes between the executive branch and other courts?",
+      "category": ["Judiciary", "Constitutional Law"]
+    },
+    {
+      "id": 13,
+      "issue": "Should access to government services and benefits, such as healthcare subsidies, be contingent on immigration status?",
+      "category": ["Immigration", "Healthcare"]
+    },
+    {
+      "id": 14,
+      "issue": "Are aggressive trade policies, including tariffs, an effective tool for economic and national security, or do they harm American consumers and businesses?",
+      "category": ["Economy", "Trade"]
+    },
+    {
+      "id": 15,
+      "issue": "How can political polarization be mitigated when it leads to legislative gridlock and the failure to perform basic government functions?",
+      "category": ["Governance", "Partisanship"]
+    },
+    {
+      "id": 16,
+      "issue": "What are the consequences of delaying the release of key economic data (like employment and inflation reports) during a government shutdown?",
+      "category": ["Economy", "Governance"]
+    },
+    {
+      "id": 17,
+      "issue": "Should the government leverage financial investigation tools, typically used for terrorism, to map and disrupt funding networks of domestic political organizations?",
+      "category": ["Law Enforcement", "Civil Liberties"]
+    },
+    {
+      "id": 18,
+      "issue": "Is the use of 'must-pass' legislation like funding bills to advance controversial policy priorities a legitimate tactic or an abuse of process?",
+      "category": ["Budget", "Governance"]
+    },
+    {
+      "id": 19,
+      "issue": "How should the government balance energy independence, economic growth, and environmental regulations in its domestic policy?",
+      "category": ["Energy", "Environment"]
+    },
+    {
+      "id": 20,
+      "issue": "What is the political and social impact of a strategy that frames political opponents not just as wrong on policy, but as threats to the nation itself?",
+      "category": ["Partisanship", "Civil Discourse"]
+    },
+    {
+      "id": 21,
+      "issue": "Should the government restrict the ability of tax-exempt organizations to engage in political advocacy, and under what criteria?",
+      "category": ["Campaign Finance", "Civil Liberties"]
+    },
+    {
+      "id": 22,
+      "issue": "How do tensions within a political party's coalition (e.g., between populist and traditional factions) affect governance and policy consistency?",
+      "category": ["Partisanship", "Governance"]
+    },
+    {
+      "id": 23,
+      "issue": "What responsibility does the governing party bear for a government shutdown compared to the opposition party?",
+      "category": ["Governance", "Partisanship"]
+    },
+    {
+      "id": 24,
+      "issue": "Is a strategy of reduced international engagement and 'America First' diplomacy beneficial or harmful to long-term U.S. interests and global stability?",
+      "category": ["Foreign Policy"]
+    },
+    {
+      "id": 25,
+      "issue": "How does the appointment of a large number of federal judges by a single administration shape the legal landscape for decades?",
+      "category": ["Judiciary", "Governance"]
+    },
+    {
+      "id": 26,
+      "issue": "Should Medicare be allowed to negotiate drug prices directly with pharmaceutical companies to reduce costs for seniors?",
+      "category": ["Healthcare", "Economy"]
+    },
+    {
+      "id": 27,
+      "issue": "Is student loan forgiveness an appropriate tool for addressing economic inequality, or does it unfairly burden taxpayers?",
+      "category": ["Economy", "Education"]
+    },
+    {
+      "id": 28,
+      "issue": "How should the federal government regulate social media platforms to address misinformation while protecting free speech?",
+      "category": ["Technology", "Civil Liberties"]
+    },
+    {
+      "id": 29,
+      "issue": "Should the United States adopt a federal ban on assault weapons and high-capacity magazines?",
+      "category": ["Gun Control", "Public Safety"]
+    },
+    {
+      "id": 30,
+      "issue": "What measures should be taken to protect election integrity while ensuring voting access for all eligible citizens?",
+      "category": ["Elections", "Voting Rights"]
+    },
+    {
+      "id": 31,
+      "issue": "Should the federal minimum wage be increased to $15 per hour, and if so, should it be indexed to inflation?",
+      "category": ["Economy", "Labor"]
+    },
+    {
+      "id": 32,
+      "issue": "How should the United States address the rising number of asylum seekers at the southern border?",
+      "category": ["Immigration", "Border Security"]
+    },
+    {
+      "id": 33,
+      "issue": "Should the federal government invest in a national high-speed rail network to reduce carbon emissions?",
+      "category": ["Infrastructure", "Environment"]
+    },
+    {
+      "id": 34,
+      "issue": "Is affirmative action in college admissions necessary to promote diversity, or does it constitute discrimination?",
+      "category": ["Education", "Civil Rights"]
+    },
+    {
+      "id": 35,
+      "issue": "How should the United States balance its support for Israel with concerns about Palestinian rights?",
+      "category": ["Foreign Policy", "Middle East"]
+    },
+    {
+      "id": 36,
+      "issue": "Should the federal government implement a carbon tax to combat climate change?",
+      "category": ["Environment", "Economy"]
+    },
+    {
+      "id": 37,
+      "issue": "What reforms are needed to ensure the long-term solvency of Social Security?",
+      "category": ["Social Security", "Budget"]
+    },
+    {
+      "id": 38,
+      "issue": "How should the United States respond to China's growing economic and military influence in the Indo-Pacific region?",
+      "category": ["Foreign Policy", "China"]
+    },
+    {
+      "id": 39,
+      "issue": "Should the federal government provide universal pre-kindergarten education?",
+      "category": ["Education", "Childcare"]
+    },
+    {
+      "id": 40,
+      "issue": "Is it time to abolish the Electoral College in favor of a national popular vote for president?",
+      "category": ["Elections", "Constitutional Reform"]
+    },
+    {
+      "id": 41,
+      "issue": "Should the federal government mandate paid family and medical leave for all workers?",
+      "category": ["Labor", "Healthcare"]
+    },
+    {
+      "id": 42,
+      "issue": "How should the United States address the opioid epidemic and rising overdose deaths?",
+      "category": ["Healthcare", "Public Health"]
+    },
+    {
+      "id": 43,
+      "issue": "Should the United States adopt a single-payer healthcare system?",
+      "category": ["Healthcare", "Economy"]
+    },
+    {
+      "id": 44,
+      "issue": "What measures should be taken to protect critical infrastructure from cyberattacks?",
+      "category": ["National Security", "Technology"]
+    },
+    {
+      "id": 45,
+      "issue": "Should the United States increase or decrease its military presence in the Middle East?",
+      "category": ["Foreign Policy", "Defense"]
+    },
+    {
+      "id": 46,
+      "issue": "How should the federal government address the housing affordability crisis?",
+      "category": ["Housing", "Economy"]
+    },
+    {
+      "id": 47,
+      "issue": "Should the United States provide reparations to descendants of enslaved people?",
+      "category": ["Civil Rights", "Economic Justice"]
+    },
+    {
+      "id": 48,
+      "issue": "What regulations are needed for artificial intelligence to ensure it is developed safely and ethically?",
+      "category": ["Technology", "Regulation"]
+    },
+    {
+      "id": 49,
+      "issue": "Should the federal government forgive all federal student loan debt?",
+      "category": ["Education", "Economy"]
+    },
+    {
+      "id": 50,
+      "issue": "How should the United States balance privacy rights with law enforcement needs in the digital age?",
+      "category": ["Civil Liberties", "Law Enforcement"]
+    },
+    {
+      "id": 51,
+      "issue": "Should the United States establish a pathway to citizenship for undocumented immigrants brought to the country as children?",
+      "category": ["Immigration", "Dreamers"]
+    },
+    {
+      "id": 52,
+      "issue": "What measures should be taken to reduce police violence and improve police-community relations?",
+      "category": ["Law Enforcement", "Criminal Justice"]
+    },
+    {
+      "id": 53,
+      "issue": "Should the United States reinstate the federal assault weapons ban?",
+      "category": ["Gun Control", "Public Safety"]
+    },
+    {
+      "id": 54,
+      "issue": "How should the United States address the threat of domestic extremism and white supremacy?",
+      "category": ["National Security", "Domestic Terrorism"]
+    },
+    {
+      "id": 55,
+      "issue": "Should the federal government invest more in renewable energy research and development?",
+      "category": ["Energy", "Environment"]
+    },
+    {
+      "id": 56,
+      "issue": "What role should the federal government play in regulating cryptocurrency and blockchain technology?",
+      "category": ["Economy", "Technology"]
+    },
+    {
+      "id": 57,
+      "issue": "Should the United States adopt a universal basic income to address economic inequality?",
+      "category": ["Economy", "Social Welfare"]
+    },
+    {
+      "id": 58,
+      "issue": "How should the United States address the threat of nuclear proliferation in Iran and North Korea?",
+      "category": ["Foreign Policy", "Nuclear Weapons"]
+    },
+    {
+      "id": 59,
+      "issue": "Should the federal government provide funding for abortion services through programs like Medicaid?",
+      "category": ["Abortion", "Healthcare"]
+    },
+    {
+      "id": 60,
+      "issue": "What measures should be taken to protect the United States from foreign election interference?",
+      "category": ["Elections", "National Security"]
+    },
+    {
+      "id": 61,
+      "issue": "Should the United States increase funding for public transportation infrastructure?",
+      "category": ["Infrastructure", "Environment"]
+    },
+    {
+      "id": 62,
+      "issue": "How should the United States address the mental health crisis, particularly among young people?",
+      "category": ["Healthcare", "Mental Health"]
+    },
+    {
+      "id": 63,
+      "issue": "Should the federal government establish a national voting holiday to increase voter turnout?",
+      "category": ["Elections", "Voting Rights"]
+    },
+    {
+      "id": 64,
+      "issue": "What reforms are needed to address wealth inequality in the United States?",
+      "category": ["Economy", "Taxation"]
+    },
+    {
+      "id": 65,
+      "issue": "Should the United States increase its investment in nuclear energy as part of its climate strategy?",
+      "category": ["Energy", "Climate Change"]
+    },
+    {
+      "id": 66,
+      "issue": "How should the United States balance border security with the humane treatment of migrants?",
+      "category": ["Immigration", "Human Rights"]
+    },
+    {
+      "id": 67,
+      "issue": "Should the federal government implement stricter regulations on large technology companies to promote competition?",
+      "category": ["Technology", "Antitrust"]
+    },
+    {
+      "id": 68,
+      "issue": "What measures should be taken to address the rising cost of prescription drugs?",
+      "category": ["Healthcare", "Pharmaceuticals"]
+    },
+    {
+      "id": 69,
+      "issue": "Should the United States reduce its military budget and redirect funds to domestic programs?",
+      "category": ["Defense", "Budget"]
+    },
+    {
+      "id": 70,
+      "issue": "How should the United States address the digital divide and ensure broadband access for all Americans?",
+      "category": ["Technology", "Infrastructure"]
+    },
+    {
+      "id": 71,
+      "issue": "Should the federal government provide subsidies for electric vehicles to accelerate the transition away from fossil fuels?",
+      "category": ["Environment", "Transportation"]
+    },
+    {
+      "id": 72,
+      "issue": "What measures should be taken to protect LGBTQ+ rights, particularly transgender rights?",
+      "category": ["Civil Rights", "LGBTQ+"]
+    },
+    {
+      "id": 73,
+      "issue": "Should the United States adopt a national 'red flag' law to temporarily remove firearms from individuals deemed a risk?",
+      "category": ["Gun Control", "Mental Health"]
+    },
+    {
+      "id": 74,
+      "issue": "How should the United States address the shortage of affordable childcare?",
+      "category": ["Childcare", "Economy"]
+    },
+    {
+      "id": 75,
+      "issue": "Should the federal government increase funding for scientific research, particularly in areas like climate science and public health?",
+      "category": ["Science", "Research"]
+    },
+    {
+      "id": 76,
+      "issue": "What reforms are needed to the criminal justice system to reduce mass incarceration?",
+      "category": ["Criminal Justice", "Prison Reform"]
+    },
+    {
+      "id": 77,
+      "issue": "Should the United States establish term limits for members of Congress?",
+      "category": ["Governance", "Congressional Reform"]
+    },
+    {
+      "id": 78,
+      "issue": "How should the United States address the threat of disinformation and propaganda on social media?",
+      "category": ["Technology", "Media"]
+    },
+    {
+      "id": 79,
+      "issue": "Should the federal government implement a wealth tax on ultra-millionaires and billionaires?",
+      "category": ["Taxation", "Economic Inequality"]
+    },
+    {
+      "id": 80,
+      "issue": "What measures should be taken to protect voting rights and prevent voter suppression?",
+      "category": ["Voting Rights", "Elections"]
+    },
+    {
+      "id": 81,
+      "issue": "Should the United States increase its commitment to NATO and European defense?",
+      "category": ["Foreign Policy", "Alliances"]
+    },
+    {
+      "id": 82,
+      "issue": "How should the United States address the rising cost of higher education?",
+      "category": ["Education", "Student Debt"]
+    },
+    {
+      "id": 83,
+      "issue": "Should the federal government provide more support for small businesses and entrepreneurs?",
+      "category": ["Economy", "Small Business"]
+    },
+    {
+      "id": 84,
+      "issue": "What measures should be taken to address the racial wealth gap in the United States?",
+      "category": ["Economic Inequality", "Racial Justice"]
+    },
+    {
+      "id": 85,
+      "issue": "Should the United States adopt a more isolationist foreign policy or maintain its global leadership role?",
+      "category": ["Foreign Policy", "Isolationism"]
+    },
+    {
+      "id": 86,
+      "issue": "How should the United States address the challenges posed by an aging population?",
+      "category": ["Demographics", "Social Security"]
+    },
+    {
+      "id": 87,
+      "issue": "Should the federal government invest in modernizing the nation's electrical grid?",
+      "category": ["Infrastructure", "Energy"]
+    },
+    {
+      "id": 88,
+      "issue": "What regulations are needed for facial recognition technology to protect privacy and prevent bias?",
+      "category": ["Technology", "Privacy"]
+    },
+    {
+      "id": 89,
+      "issue": "Should the United States adopt a national paid sick leave policy?",
+      "category": ["Labor", "Public Health"]
+    },
+    {
+      "id": 90,
+      "issue": "How should the United States address the decline of local journalism and its impact on democracy?",
+      "category": ["Media", "Democracy"]
+    },
+    {
+      "id": 91,
+      "issue": "Should the federal government provide more funding for mental health services in schools?",
+      "category": ["Education", "Mental Health"]
+    },
+    {
+      "id": 92,
+      "issue": "What measures should be taken to reduce greenhouse gas emissions from the agricultural sector?",
+      "category": ["Environment", "Agriculture"]
+    },
+    {
+      "id": 93,
+      "issue": "Should the United States increase its humanitarian aid to countries affected by climate change and conflict?",
+      "category": ["Foreign Aid", "Humanitarian"]
+    },
+    {
+      "id": 94,
+      "issue": "How should the United States address the shortage of affordable housing in major cities?",
+      "category": ["Housing", "Urban Policy"]
+    },
+    {
+      "id": 95,
+      "issue": "Should the federal government implement stricter emissions standards for vehicles?",
+      "category": ["Environment", "Transportation"]
+    },
+    {
+      "id": 96,
+      "issue": "What measures should be taken to protect workers' rights in the gig economy?",
+      "category": ["Labor", "Gig Economy"]
+    },
+    {
+      "id": 97,
+      "issue": "Should the United States adopt a national data privacy law similar to the EU's GDPR?",
+      "category": ["Technology", "Privacy"]
+    },
+    {
+      "id": 98,
+      "issue": "How should the United States address the challenges posed by automation and job displacement?",
+      "category": ["Economy", "Automation"]
+    },
+    {
+      "id": 99,
+      "issue": "Should the federal government increase funding for public housing and housing vouchers?",
+      "category": ["Housing", "Social Welfare"]
+    },
+    {
+      "id": 100,
+      "issue": "What role should the United States play in global efforts to address climate change, such as the Paris Agreement?",
+      "category": ["Foreign Policy", "Climate Change"]
+    }
+  ]
