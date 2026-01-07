@@ -5,17 +5,21 @@
 Overall framework of DiPM, including: decoupler, modulator, and recombiner.
 
 ## train -- train data
-### multi-tasking: mnli.json / mrpc.json / cola.json / rte.json
-### unlearning: alpaca.json / wizard.json / toxic.json
-### transfer: neutral.json / republican.json
+#### multi-tasking: mnli.json / mrpc.json / cola.json / rte.json
+#### unlearning: alpaca.json / wizard.json / toxic.json
+#### transfer: neutral.json / republican.json
 
 ## test -- test data
-### multi-tasking: mnli.json / mrpc.json / cola.json / rte.json
-### unlearning: toxic_instruction.json
-### transfer: neutral.json / republican.json
+#### multi-tasking: mnli.json / mrpc.json / cola.json / rte.json
+#### unlearning: toxic_instruction.json
+#### transfer: political_stance.json
 
 ## evaluation -- evaluation procedure on the test set
+#### multi-tasking: multi-task.py
+#### unlearning: generate_toxic_responses.py / toxic_response_score.py
+#### transfer: political_stance.py
 
 ## operators -- different defined operators
+#### reversing.py / averaging.py / shifting.py
 
 ## train_param_setting -- parameter settings for model training using llama_factory
