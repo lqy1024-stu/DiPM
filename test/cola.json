@@ -1,0 +1,5217 @@
+[
+  {
+    "instruction": "Does 'The sailors rode the breeze clear of the rocks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The weights made the rope stretch over the pulley.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The mechanical doll wriggled itself loose.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'If you had eaten more, you would want less.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'As you eat the most, you want the least.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The more you would want, the less you would eat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I demand that the more John eat, the more he pays.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary listens to the Grateful Dead, she gets depressed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The angrier Mary got, the more she looked at pictures.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The higher the stakes, the lower his expectations are.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The more Fred is obnoxious, the less attention you should pay to him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John was lots more obnoxious than Fred.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The more people you give beer to, the more people get sick.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The more does Bill smoke, the more Susan hates him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The more pictures of him that appear in the news, the more embarrassed John becomes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Every senator seems to become more corrupt, as he talks to more lobbyists.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who does John visit Sally because he likes?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Marianne did not leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He could not] have been working.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He can not have been working.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'You will believe Bob.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John has not kissed Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I said that never in my life had I seen a place like Bangor.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mickey looked up it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'There tended to be a lot of discussion.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John tried to be a good boy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John is eager.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We want John to win.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The box contained the ball from the tree.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The tube was escaped by gas.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Water bubbled up out of the kettle.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The tub leaked water.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What the water did to the bottle was fill it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'What the water did to the whole bottle was fill it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The tank leaked the fluid free.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John lay the ball in the box.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John owns the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We persuaded Mary to leave and Sue to stay.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary beautifully plays the violin.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Clearly, John probably will immediately learn French perfectly.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sue gave to Bill a book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The men will all leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John went home.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They represented seriously to the dean Mary as a genuine linguist.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Us love they.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It is nice to go abroad.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary intended John to go abroad.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I remembered having kissed Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I can't believe Fred won't, either.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John wants to read Fred's story, and I also want to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We wanted to invite someone, but we couldn't decide who to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary will read Fred's story, and Joe will read Holly's.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary claimed that eating cabbage, Holly shouldn't.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary came to be introduced by the bartender and I also came to be.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'If I can, I will work on it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Joe's neuroses bother his patrons, and Sally does too.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I know which book José didn't read for class, and which book Lilly did it for him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'This is the book which Bob reviewed, and this is the one which Fred won't do it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I know which book Mag read, and which book Bob said that you hadn't.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does '?*' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I'm sure I would like him to eat fruit more than I would cookies.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Rusty talked about himself only after Mary did talk about him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Fred talked about everything before Rusty did talk about something.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John often meets Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The problem perceives easily.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'A hundred men surrounded the fort.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We elected me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which report that John was incompetent did he submit?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary has always preferred lemons to limes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He let the cats which were whining out.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What did Bill buy?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary saw the boy walking toward the railroad station.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A proof that the claim had been. made was giver that John had lied.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does '?*' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does '?*' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I know a man who Tom drives as drives.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Drowning cats, which is against the law, are hard to rescue.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Muriel said nothing else than that she had been insulted.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Himself is understood by Rutherford.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I feel that Arch will show up.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The proof this set is recursive is difficult.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The madrigals which Henry plays the lute and sings sound lousy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Where did you go and who ate what?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which boy's did we elect guardian's employer president?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'How sane is Peter?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I live at the place where Route 150 crosses the Hudson River and my dad lives at it too.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Who is she trying to make up to now?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mike talked about politics yesterday to my friends.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was expected by the reporters that the principal would fire some teacher.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which hat did Mike quip that she never wore?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Which girl did Mike quip never wore this hat?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We donated wire for the convicts to build cages with.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I won't have some money.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Do you believe the claim that somebody was looking for something?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I won't ask you to believe that he tried to force me to give her any money.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That Sam sometimes didn't sleep must have pleased somebody.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I talked to Winston about himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I'll work on it if Sam will be working on it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I'll work on it if I can.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Here's a knife with which for you to cut up the onions.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Fluffy is sick, which not everybody knows.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Maxwell is quite a doctor.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The younger woman might have been tall and, and the older one definitely was, blond.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I have to try to finish grading some papers.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The socks are ready for for you to put on to be planned.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It is easy to play sonatas on this violin.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This violin is difficult to play sonatas on.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'My mother is easy to please my father and.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Poor Bill, it had started to rain and he had no umbrella.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does '?*' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Every student, and he wears socks, is a swinger.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'That girl was given my binoculars by him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill didn't allege that Roger had eaten anything.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nobody who hates to eat anything should work in a delicatessen.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everybody around here who ever buys anything on credit talks in his sleep.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I can't remember the name of somebody who had misgivings.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'No writer, and no playwright, meets in Vienna.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'No writer, nor any playwright, meets in Vienna.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'That you will marry any student is not certain.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Felicia kicked the ball off the bench.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I sent the package halfway around the world.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sam gave the ball out of the basket.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sam offered the ball out of the basket.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Park Square has a festive air.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The worker will have a job.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'No one can forgive that comment to you.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We launched the rocket to the moon, but it blew up before it got there.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sarah promised Catherine her old car, but then gave it to her son instead.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I lent the book partway to Tony.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The farmer loaded the cart with apples.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The farmer dumped the cart with apples.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Martha carved the baby a toy out of wood.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bread cuts easily.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Janet broke Bill on the finger.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Janet broke the cup.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The visitor rang the bell.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We pulled free.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That movie always shocks people.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That movie always shocks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sharon came the room.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Bill sent a package to Tom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That acorn will grow into an oak tree.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He turned into a frog.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I mixed the sugar into the butter.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Brian threw the fence with the stick.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mira condemned Terry for the accident.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We investigated the area for bombs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I sensed his eagerness.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They praised the dedication in the volunteers.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The earth was believed to be round.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sarah smiled a charming smile.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandra beamed a cheerful welcome.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'You've really lived it up.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Paperback books lift onto the table easily.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The books lifted onto the table.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Jessica loaded boxes under the wagon.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jessica loaded boxes on the wagon.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jessica crammed boxes at the truck.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Lora buttered at the toast.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Carla shoveled the walk.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nora sent the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nora sent Peter the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Carla slid the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Carla slid at the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Amanda carried the package to Pamela.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Packages drive easily to New York.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The chair pushed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We offered a job to her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A job offered.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Brown presented a plaque to Jones.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Carmen bought Mary a dress.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Carmen obtained the spare part at the hardware store.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Michelle kept the desk with the papers.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Frances hid the presents in the drawer.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The needle poked the cloth.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Carrie touched that cat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Herman whipped the sugar and the cream.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Linda taped the picture to the wall.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Linda taped the picture onto the wall.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The child and her mother clung together.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This flyer and that flyer differ.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This flyer and that flyer differ apart.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The jeweller scribbled the contract with his name.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The gardener grew that acorn into an oak tree.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I shaped a loaf.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The children amused.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Susan whispered the news.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Susan whispered at Rachel.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Ellen said that melons were selling well.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Ellen said about the present conditions.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Ellen warned Helen against skating on thin ice.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Cynthia nibbled on the carrot .' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Cynthia chewed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Paul laughed at Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Linda winked her lip.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'My heart is pounding me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sharon fainted from hunger.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The witch poisoned the children.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A grandfather clock ticked in the hallway.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I squeaked the door.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Over the fire there bubbled a fragrant stew.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Soaring temperatures are predicted for this weekend.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The fort fluttered with many flags.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The voices echoed in the hall.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The stream twists through the valley.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There presented itself a wonderful opportunity yesterday.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'A wonderful opportunity presented itself to him yesterday.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Out of the box jumped a little white rabbit.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Penny skated around the rink.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jackie accompanied Rose.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'many information was provided.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John offers many advice.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The cake that Jones got was more delicious than the one that Smith got.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We recommend to eat less cake and pastry.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I saw that gas can explode.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He washed her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Wash you!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They have no in.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Some my jobs are in jeopardy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It was the policeman met that several young students in the park last night.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'did the policeman meet in the park?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John put old books in the box.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The monkeys proud of their leader.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John sounded very.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I don't know if I should agree.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John bought a book on the table.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John called the president a fool.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I forgot how good beer tastes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This teacher is a genius.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A good friend is remained to me by him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John ate his noodle quietly.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A smith hammered the metal.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy removed her ballet shoes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This week will be a difficult one for us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Benny worked in a shoe factory when he was a student.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everyone hoped that she would sing.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This proved a decisive factor.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The crocodile devoured the doughnut.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John is afraid of Bill.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John put under the bathtub.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John placed Kim behind the garage.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Kim depends for Sandy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John put the book in the box.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John taught English Syntax to new students.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John regards Bill as a good friend.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Kim put in the box.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The chickens seem fond of the farmer.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The rules require that the executives be polite.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That Fred was unpopular nominated Bill.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They were taking a hard look at possible FTA.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John paid me against the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The committee will study the feasibility of setting up a national computer network.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We made them be rude.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'After reading the pamphlet, Judy threw it into the garbage can.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Students studying English reads Conrad's Heart of Darkness while at university.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I read some of the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Most of the fruit is rotten.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Neither of students failed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I drank some of water.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It is a golden hair.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The boy in the doorway waved to his father.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That dog is so ferocious, it even tried to bite itself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He washed yourself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John is easy to please Kim.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'There seemed to be intelligent.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John tried to please Stephen.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We believed John to be a fountain in the park.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It tries to leave the country.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John tries to leave the country.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Under the bed seems to be a fun place to hide.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There is believed to be sheep in the park.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I hope to would study in France.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John can kick the ball.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John will rain tomorrow.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We expect there to will rain.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was found in the office.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Did the child be in the school?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It did not rain.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John wants not to leave the town.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary likes to tour art galleries, but Bill hates to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They needn't take this exam.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Ann may spend her vacation in Italy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They love to play golf, but I do not.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'George has spent a lot of money, hasn't he?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'As a statesman, scarcely could he do anything worth mentioning.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We never found any of the unicorns.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'One of Korea's most famous poets wrote these lines.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Somebody apparently struck the unidentified victim during the early morning hours.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The car was driven.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Ricky can be relied on.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bed was slept in.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A pound was weighed by the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Who do you think Tom saw?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'he had spent five thousand dollars.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Fed knows which politician her to vote for.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'How did you guess that he fixed the computer?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The committee knows whose efforts to achieve peace the world should honor.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which house does your friend live?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'the baker from whom I bought these bagels left.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I found the place where we can relax.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jack is the person with whom Jenny fell in love with.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'There is a bench to sit on.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I met the man who grows peaches.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which topic did you choose without getting his approval?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which topic did you get bored because Mary talked about?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'That is the reason why he resigned.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It bothers me that John coughs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'To please John is easy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Kim is eager to please Tom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That we invaded Iraq really bites.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It annoys me that Fido barks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who achieved the best result was Angela.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It was the peasant girl who got it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That kind of person is hard to find anyone to look after.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A sick owl doesn't hunt mice.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Each candidate who has interest in semantics will be admitted to the department.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Each author whose contribution is written in any language other than English will provide a summary in English.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I'm sure we even got these tickets!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I'm even sure we got these tickets!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It's not because I have any sympathy for urban guerillas that I helped him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It isn't because Sue said anything bad about me that I'm angry.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That he was hungry, John whined.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does '1 gave Mary after the party a book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Because she's so pleasant, as for Mary I really like her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Though he may hate those that criticize Carter, it doesn't matter.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'With no job would John be happy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I have much of the manuscript left to type.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He's a more reliable man.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Any trouble is what I don't want.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They may grow as high as bamboo.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some of them made as many errors as 20.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sally kissed himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Drew believes I think Rosie loves magazine ads.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Dave, Dan, Erin, Jaime, and Alina left.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Hopefully, we'll make it through the winter without snow.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Blue leather shows herself that Betsy is pretty.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Gwen hit the baseball.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I hit that you knew the answer.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I've lost my wallet or I've lost my mind.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was a brand new car that he bought.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He likes cookies and he hates crumb cake.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They chased the man with the car.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I didn't have a red cent.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'the book of poems and from Blackwell takes a very long time to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'the one with a red cover takes a very long time to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John has a fear of dogs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The building's the roof is leaking.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'the panther's the coat is dark black.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Colin asked if they could get a mortgage.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The man I saw get into the cab robbed the bank.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I know you eat asparagus.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John's drum will always bother me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'An evil thought struck Dave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'In the classroom John put the book on the table.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Phillip gave the medal to the soldier.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Heidi thinks that Andy to eat salmon flavored candy bars.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Heidi thinks that Andy should eat salmon flavored candy bars.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He danced.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Did Calvin his homework?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sylvia was slapping Jeff upside the head in martial arts class.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'If I am a rich man, I'd buy a diamond ring.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'If he were a rich man, he'd buy a diamond ring.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John is likely to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The manager laughed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Was sunk.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Who did you think kissed the gorilla?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Have you seen my model airplane collection?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It seems that Lucy was mugged.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I ate a salad that was filled with lima beans.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There were four men arriving at the station when I pulled up.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jean is reluctant to dance.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I want her to dance.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jean persuaded Robert.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jean wants Bill to do the Macarena.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The children admire their mother.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who has Peter talked with?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Heidi likes her violin.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John thinks that Mary loves himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Which pictures of himself does John like?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Any owl hunts mice.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Any man didn't eat dinner.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'A pilot could be flying this plane.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everybody who attended last week's huge rally, whoever they were, signed the petition.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Anybody who attended last week's huge rally signed the petition.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Any tiger has orange fur, marked with black stripes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Any albino tiger has orange fur, marked with black stripes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'You must pick any flower you see.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Any pilot on duty today could be flying this plane.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'You may pick every flower, but leave a few for Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The Dodgers beat the Red Sox and were beaten by the Giants.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'In which car was the man seen?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The man who Mary loves and Sally hates computed my tax.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The kennel which Mary made and Fido sleeps has been stolen.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Tom said he would and Bill actually did eat a raw eggplant.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The wealthy young man bought that piano for his secret fiancée.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The dog stole the turkey.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'a tall building.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This building is tall.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I like the book which you gave me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Captain Wentworth wrote a letter to Anne Elliott.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She asked was Alison coming to the party.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They realised that never had Sir Thomas been so offended.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Fanny regretted having to talk to Aunt Norris.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Knowing the country well, he took a short cut.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He left the train with somebody else's wallet in his pocket.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Magnus went to Ireland.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who did John send the book?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The idea dismayed the Prime Minister that the Dome was dull.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Came right in he did without so much as a knock.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Harriet admired Mr Knightley.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book is boring.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Ethel wishes to ask you some awkward questions.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Emma made Harriet some food.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The window was broken with a hammer.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The fugitive lay motionless in order to avoid discovery.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The guard marched the prisoners round the yard.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Frank Churchill crossed the street.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Emma and Harriet were attacked yesterday.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Fiona might be here by 5 o'clock.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I am both expecting to get the job and of the opinion that it is a desirable one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Pat was awarded the Golden Fleece Award and very upset about it.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Kim alienated cats and beating his dog.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They knew that pictures of each other would be on sale.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which article did Terry file papers without reading?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I want to try and buy some whiskey.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She goes and buying some whiskey.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Kim and Terry is happy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Kim gave a dollar to Bobbie and a dime to Jean.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Ann bought a first edition of Richard III for $1000.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John became deadly afraid of flying.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What John promised is to be gentle.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Henri wants to buy which books about cooking?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I will fix the computer for Carol.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Smith loaned a valuable collection of manuscripts to the library.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The paper is cut by Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was from six to nine or it took place from six to nine.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Suddenly, there arrived two inspectors from the INS.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The soup cooks, thickens.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I gave money to the charity.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John asked.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I saw even the student.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John whispered Mary left.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary wonders that Bill will come.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sophie will theater.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John finished the cake and drank the lemonade.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Herself likes Mary's mother.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Each of the boys fought with some of the other boys.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John's mother likes himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary revealed himself to John.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary believes that Bill saw himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John heard that they criticized themselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary thinks that she is smart.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Henry found that Bill is sad.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John considers himself proud of Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'You should sit before there.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'There is a nurse available.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everyone hopes everyone to sleep.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Everyone hopes that he will sleep.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John promise Mary to shave himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John convinced Bill that Mary should sleep.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I saw Bill while you did so Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'What Mary did Bill was give a book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The bears sniffed' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'to steal talismans from witches is dangerous' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Anson demonized' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'You kicked yourselves' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book that I said that I'd never read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Anson demonized up the Khyber' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It is not true that I might be going to the party.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Kick you!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Jason persuaded the doctor to treat Medea' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who did you get an accurate description of?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The Peter we all like was at the party' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The government's imposition of a fine.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Did Athena help us?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'You wanted to meet the man I saw.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Anson demonized David every day' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There is a programme about Euripides on a Radio 4 tonight?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Medea denied poisoning the phoenix.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The elixir was hidden in a hole in the ground' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Extremely frantically, Anson danced at Trade' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What did you ask who Medea gave?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It's Anson that I like' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Medea tried the nurse to poison her children.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I felt that I know you.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Will he can do it?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I ate that she was happy' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Anson believed himself to be handsome.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We arrived about six o'clock' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Gilgamesh is having fought the dragon.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Anson thought that himself was happy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Fortunately Hermione passed biology' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I might be not going to the party but washing my hair' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I thought he liked myself' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The butler sent the poison to Dinah.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jason happens to appear to seem to be sick.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What did you ask who saw?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We linguists love to argue' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He can will go' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'How fierce the battle?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Which king did you ask which city invaded?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It is some disgruntled old pigs in those ditches that humans love to eat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That banana is eating the monkey.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Burn them!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It stinks that Aphrodite is omnipotent.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Agamemnon seems to be a maniac' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Will Anson come to the party?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I wondered who Medea had poisoned.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I inquired when could we leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They kicked them' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The monkey is ate the banana' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I would like to could swim' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I kicked myself' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bookcase ran' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I shaved myself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Anson became a muscle bound.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Somebody just left - guess who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They claimed they had settled on something, but it wasn't clear what they had settled on.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'If Sam was going, Sally would know where.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They're going to serve the guests something, but it's unclear what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She's reading. I can't imagine what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John said Joan saw someone from her graduating class.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John ate dinner but I don't know who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She mailed John a letter, but I don't know to whom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I served leek soup to my guests.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I served my guests.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She was bathing, but I couldn't make out who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She knew French for Tom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John is tall on several occasions.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The ship sank, but I don't know with what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They noticed the painting, but I don't know for how long.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was tall, but I don't know on what occasions.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Joan ate dinner with someone but I don't know who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Joan ate dinner with someone but I don't know who with.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I know that Meg's attracted to Harry, but they don't know who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Since Jill said Joe had invited Sue, we didn't have to ask who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I know that Meg's attracted to Harry, but they don't know who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She said she had spoken to everybody, but he wasn't sure who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Each of the performers came in, but were sitting so far back that we couldn't see who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She didn't talk to one student.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She doesn't meet anyone for dinner, but they can't figure out who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Everyone relies on someone. It's unclear who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Each student wrote a paper on a Mayan language, but I don't remember which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill wondered how many papers Sandy had read, but he didn't care which ones.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I never know which papers Sandy has read, but I usually know how many.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy had read how many papers?!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everybody gets on well with a certain relative, but often only his therapist knows which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which book did each author recommend?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'His or her least known work.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They were going to meet sometime on Sunday, but the faculty didn't know when.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John likes some students, but I don't know who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I don't know who John likes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John likes some students, but I don't know who John likes some students.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Joan said she talked to the students, but Fred couldn't figure out who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'He announced he had eaten the asparagus, but we didn't know what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She was reading the books under the table, but Fred didn't know what books.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He announced he would marry the woman he loved most, but none of his relatives could figure out who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She talked to John or Mary but I don't know which.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She talked to John or Mary but I don't know which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She talked to Harry, but I don't know who else.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I will see them, but I don't know how many of them.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everyone who knows either Susan or Laura likes her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She said she talked to three students but I don't know how many.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She said she talked to those students but I don't know how many.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'He shouted again, but I don't know who to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She was dancing with somebody, but I don't know who with.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Several firefighters were injured, but it's not known.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Meg is attracted to Harry, but they don't know who she is attracted to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John and someone were dancing together, but I don't know who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It has been determined that somebody will be appointed; it's just not clear yet who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sally asked if somebody was going to fail math class, but I can't remember who.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us which.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'In which way is Sandy very anxious to see if the students will be able to solve the homework problem?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I know how many assignments I've graded, but I don't know how many Bill has.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What did you leave before they did?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'What did you leave before they started playing?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Sandy was trying to work out which students would be able to solve a certain problem.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The administration has issued a statement that it is willing to meet with one of the student groups.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sandy was trying to work out which students would be able to solve a problem.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The administration has issued a statement that it is willing to meet a student group.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The administration has issued a statement that it is willing to meet a student group, but I'm not sure which one.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I think Agnes said that Bill would speak, but I don't remember what about.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Agnes wondered how John could eat but it's not clear what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Tony sent Mo a picture that he painted, but it's not clear with what.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She's been dancing but we don't know with whom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who did they see someone?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It was believed by everybody that Mary was a thief.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That professor is feared by all students.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary was respected by John.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Ted was bitten by the spider.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book was by John written.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The argument was summed by the coach up.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The paper was written up by John.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The paper was written by John up.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was spoken to by Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John was spoken by Mary to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The book was seen by Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John was seen the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The book was written.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John was spoke by Mary to.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The table was wiped clean by John.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The table was wiped by John clean.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary was given by John the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was believed to be telling the truth by Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John was believed by Mary to be telling the truth.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The car was driven by John to Maine.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was believed by the students that they would have an exam.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The magazines were sent to herself by Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Chocolate eggs were hidden from each other by the children.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The magazines were sent by Mary to herself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Chocolate eggs were hidden from no child by any adult.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Tabs were kept on each agent by the other.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Chocolate eggs were hidden from every child by his mother.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Books were taken from no student and given to Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Books were taken from no student and given to Mary by any professor.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Books were taken from each student by the other.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Books were taken from each student and given to Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Books were taken from each student and given to Mary by the other.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Jack hates Sue and is loved by Mary.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Either Sam plays the bassoon or Jekyll the oboe.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sam doesn't play bassoon, nor Medusa oboe.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill ate the peaches, but Harry the grapes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I no more could have stolen that steak than Jack the diamonds.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill ate more peaches than Harry did grapes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill ate the peaches and Harry did the grapes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Tom will smoke the grass, and Reuben has the hash.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'If the ants were called elephants and elephants ants, I'd be able to squash an elephant.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Simon quickly dropped the gold, and Jack the diamonds.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bob tried to wash himself, and Mary to read the funnies.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Harry told Sue that Albania is a lovely place for a vacation, and Tom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Max seemed to be trying to force Ted to leave the room, and Walt, Ira.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Arizona elected Goldwater Senator, and Massachusetts, McCormack.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Millie will send the President an obscene telegram, and Paul, the Secretary a rude letter.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Maytag will give a brand-new dryer to the winner of the Mrs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Bill didn't eat the peaches, nor Harry.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Bill ate the peaches, and Harry did, too.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill must quickly eat the peaches, and Harry must slowly.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Whenever Russia has made a major political blunder, the U.S. has too.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill's story about Sue and Max's about Kathy both amazed me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I bought three quarts of wine and two of Clorox.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Scientists at the South Hanoi Institute of Technology have succeeded in raising one dog with five legs, another with a cow's liver, and a third with no head.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill's story about Sue may be amazing, but Max's is virtually incredible.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I like Bill's yellow shirt, but not Max's.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill's funny story about Sue and Max's boring one about Kathy both amazed me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill's wine from France and Ted's from California cannot be compared.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Tom's dog with one eye attacked Frank's with three legs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Neither von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's has the right tempo.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Tom's dog with one eye attacked Fred's.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jerry attempted to blow up the Pentagon.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'So fast did he run that nobody could catch him.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill bought a red house, and Max bought one too.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does ' ' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book which inspired them was very long.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book what inspired them was very long.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I know the person whose mother died.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The person whose mother's dog we were all fond of.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I wonder whose mother died.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I wonder whose mother's dog died.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I wonder to whom they dedicated the building.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Give me the phone number of the person whose mother's dog died.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This is the senator to whose mother's friend's sister's I sent the letter.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I want goes to the store.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I wonder what to be a clown on the cover of.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Bother you that Kim left!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'A student who to talk to us just walked in.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Whose bagels do you like?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I wonder in whom to place my trust.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There were several old rocks songs that she and I were the only two who knew.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was to to amuse us that Kim was singing that they wanted.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'What they feared most was to be no one available to help them.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We tried to amuse them that Kim was singing.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Mary asked me if, in St. Louis, John could rent a house cheap.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Mary arranged for, in St. Louis, John to rent a house cheap.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It would be unwise for there to be no fire exit.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I believe there to be no way out.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I wonder in whom them to place their trust.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I wonder whom us to trust.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I wonder who for us to trust.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I wonder who to place my trust in.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I know the people that voted in the election.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I threw away a book that Sandy thought we had read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I thought that you were sick.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I dislike the people in who we placed our trust.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I dislike the company in which we placed our trust.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I dislike the people in whose house we stayed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I dislike the person with whom we were talking.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Jones, that we were talking to last night, always watches football games alone.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'A letter was received that Jones would be upset by.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A letter was received Jones would be upset by.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I saw someone yesterday I hadn't seen for years.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Something happened I couldn't really talk about.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The only person that I like whose kids Dana is willing to put up with is Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book that I like which everyone else in the class hates was written by John.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The only person whose kids Dana is willing to put up with was written by John.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The book that I like - everyone else in the class hates.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The only person whose kids Dana is willing to put up with is Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which book's, author did you meet?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which boy's, mother, did you meet who you liked?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Which book's, author did you meet who you liked?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Which boy's, mother, did you meet?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'All who lost money in the scam are eligible for the program.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Who for Sandy to talk to is still enrolled in the class?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Who who you like does Sandy also like?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Everything you like is on the table.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bills passed by the House yesterday that we objected to were vetoed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The only people being added to our group who were at Harvard were students.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We like ourselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nobody likes us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Leslie likes ourselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Ourselves like ourselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'She voted for herself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We gave us presents.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We gave ourselves presents.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We gave presents to ourselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We gave us to the cause.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We gave ourselves to the cause.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Leslie told us about us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Leslie told ourselves about us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We think that Leslie likes us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We think that Leslie likes ourselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Our friends like us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Those pictures of us offended us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We found your letter to ourselves in the trash.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Vote for you!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Vote for yourself!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We appeared to them to vote for themselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We admired the pictures of us in the album.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We admired the pictures of ourselves in the album.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Leslie used a pen.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We put the pigs in a pen.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We need to pen the pigs to keep them from getting into the corn.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They should pen the letter quickly.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The car won't run.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This dye will run.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'She can run an accelerator.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'These stockings will run.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We need another run to win.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Lee saw the student with a telescope.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I forgot how good beer tastes.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Visiting relatives can be boring.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'If only Superman would stop flying planes!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That's a new car dealership.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I know you like the back of my hand.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Max is on the phone now.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I saw her duck.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I'm creating a committee. Kim – you're in charge.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Lights go out at ten. There will be no talking afterwards.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They found the book on the atom.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Which experts testified against defendants who exposed them?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'List all experts for the defendant who represented himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'List associates of each defendant who speaks Spanish.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They lost themselves' books.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Some sentences go on and on and on.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Sentences some go on and on and on and on.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'That surprised me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I noticed the.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They were interested in his.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This is my favorite.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A large dog chased a small cat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people yell at noisy dogs in my neighborhood.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people yell at the dogs in my neighborhood.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people yell at the dogs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people yell at noisy dogs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people yell at dogs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider the noisy dogs dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider the dogs in my neighborhood dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider noisy dogs in my neighborhood dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider the dogs dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider noisy dogs dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider dogs in my neighborhood dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Some people consider dogs dangerous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'People with children who use drugs should be locked up.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This disease gave Leslie a fever in Rome.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The love of my life and mother of my children would never do such a thing.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Most elections are quickly forgotten, but the election of 2000, everyone will remember for a long time.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It is painting by Klee or drawing by Miro that the museum displays no.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The defendant denied the accusation.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The teacher disappeared the problem.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The teacher handed the student.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The bird sings.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bird sing.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Birds sings.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The birds give the worm a tug.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bird give the worm a tug.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The birds gives the worm a tug.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Terry delighted in my pain.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Terry delighted.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Terry delighted my pain.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Kerry remarked it was late.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'What additional categories and rules would be required to handle these verbs?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We created a monster.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I was already aware of fact.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The defendant deny the allegation.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The defendants denies the allegation.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The defendant walks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The defendant walk.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The defendants walks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'How many feature structures categories can label the first daughter?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The child put the toy on the table.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The teacher became angry with the students.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The teacher became.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The jury believed the defendant lied.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The guests dined.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We relied on Leslie.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We relied above Leslie.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We celebrated in the streets.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We celebrated in the streets in the rain on Tuesday in the morning.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The children are happy of ice cream.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The children are fond with the ice cream.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The children are fond that they have ice cream.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'A magazine appeared on the newsstands.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A magazine about crime appeared on the newsstands.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Newsweek appeared on the newsstands.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Newsweek about crime appeared on the newsstands.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The report that crime was declining surprised many people.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book surprised many people.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The book that crime was declining surprised many people.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The storm arrived after the picnic.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The storm arrived while the picnic.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The storm arrived while we ate lunch.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'This dogs barked.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'These dogs barked.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A chair was broken.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They want them arrested.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They preferred them arrested.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We preferred them on our team.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'With my parents as supportive as they are, I'll be in fine shape.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We walks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Few dog barked.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The dogs barked.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I walk and Dana runs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They like us.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Us like them.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Kim likes dogs.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Dogs like Kim.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The person responsible confessed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The person confessed responsible.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The cat slept soundly and furry.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The soundly and furry cat slept.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Chris walks, Pat eats broccoli, and Sandy plays squash.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There was some particular dog who saved every family.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Susan frightens her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Susan told her a story.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Susan told a story to her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Susan devoted herself to linguistics.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nobody told Susan about herself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That picture of Susan offended her.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'He offended Sandy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I enjoy yourself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They talk to themselves.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nobody told Susan.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Protect yourself!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Protect you!' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I met the person who left.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Leslie slept.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Chris handed Bo.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Dana walked and Leslie ran.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Dana walking and Leslie ran.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Dana walking and Leslie running.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'the putter of books left.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Kris donated a book to the library.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The police sprayed the protesters with water.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The police sprayed water on the protesters.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The students drove cars.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'These cars drive easily.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The horse kicked me black and blue.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'They yelled.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The horse raced past the barn fell.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The horse that was raced past the barn fell.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The boat seen down the river sank.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The evidence assembled by the prosecution convinced the jury.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Lou forgot the umbrella.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Lou forgot the umbrella in the closet.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Lou hoped the umbrella was broken.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Lou hoped the umbrella in the closet.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Lou put the umbrella was broken.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Lou put the umbrella in the closet.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The artist drew the child with a pencil.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The dog bit the cat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The cat was bitten the mouse.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The cat was bitten the mouse by the dog.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Chris was handed Sandy a note by Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Chris was handed a note.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Chris was handed Sandy a note.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'TV puts dumb ideas in children's heads.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Dumb ideas are put in children's heads by TV.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Dumb ideas are put in children's heads.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Dumb ideas are put notions in children's heads by TV.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'The patient died.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The patient was died.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Chris was handed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'TV puts dumb ideas.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'He was arrested by the police.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The cat got bitten.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The cat were bitten by the dog.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'There is a monster in Loch Ness.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It is obvious that Pat is lying.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Pat is the captain of the team.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Pat is hate Chris.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'There is a unicorn in the garden.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There was a felon elected to the city council.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There is a seat available.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A seat available was in the last row.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Many people were fond of Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'People are looking through the window.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'A felon was elected to the city council.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'There loved Sandy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'We talked to them about there.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It mattered that the Giants had lost.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That dogs bark annoys people.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It annoys people that dogs bark.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That Chris knew the answer occurred to Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It never occurred to Pat that Chris knew the answer.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That the Cardinal won the game gave Sandy a thrill.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It gave Sandy a thrill that the Cardinal won the game.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That Sandy had lied suggested.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It loved Sandy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Cohen proved the independence of the continuum hypothesis.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Cohen proved that the continuum hypothesis was independent.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'We forgot our invitations.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Nobody saw Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That Fido barks annoys me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Fido barks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Chris dreads the bucket.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The candidates bring advantage to the voters.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Tabs are kept on suspected drug dealers by the FBI.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Advantage is taken of every opportunity for improvement.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The bucket was kicked by Pat.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John is sad.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John loaded the wagon full with hay.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John loaded the wagon with hay green.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I presented John with it dead.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'Of whom are you thinking?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John became rich.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I gave John gold apples.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'how silly is Bill considered?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'how mad was Bill made?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John is sick.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John left singing.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John is near Larry.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John gave Bill the dog dead.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'Bill was struck by John as stupid.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was struck as sick.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was struck by Bill's idiocy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John promised Bill to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John tried to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'To leave would be a pleasure.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John was struck by Bill as pompous.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John was promised by Bill to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'They make good cooks.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'there is nothing to do.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John has something for Bill to do.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I am counting on Bill to incriminate himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'On whom are you counting to incriminate himself?' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I am counting on Bill to get there on time.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I would prefer to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I would hate for John to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I would prefer for John to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was hated for John to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John decided for Bill to get the prize.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John decided Bill to get the prize.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'to die is no fun.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John wants to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John counted on Bill to get there on time.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I bought Bill a book to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John told Mary that it would be important to leave early.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John told Mary that it was important to Fred to leave early.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John, told Mary that it would be appropriate to leave together.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'the election of John president surprised me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John's arriving dead surprised me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'the attempt by John to leave surprised me.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John left orders to follow Pete.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John left us orders to follow Pete.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John left orders not to be disturbed.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That he is here is clear.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It is a problem that he is here.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It bothers me that he is here.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John regretted it that Bill had a good time.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John believes it that Bill is here.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John believes it sincerely that Bill is here.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John is aware of it that Bill is here.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John felt it that Bill was tardy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John believed it that Bill was tardy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It was believed that Bill was tardy.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'That John is reluctant seems.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It is the problem that he is here.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'That he is here is the problem.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The problem we are discussing is George.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It is to give up to leave.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'It would prove our theory to be untenable for carrots to be vegetables.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was believed to be illegal by them to do that.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John grudgingly accepted judgments of his incompetence as an auto mechanic.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'It was to John that I gave the book.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I bought it to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I bought it to give to Pete.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I gave it to Pete to take to the fair.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I gave Pete the book to impress.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I wrote to Bill.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I presented it to Bill to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'I presented Bill with it to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'I gave a book to Bill to read.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John thinks it would upset himself to die.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John made Bill mad at himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John made Bill master of himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The correspondence school made Bill a good typist.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'The correspondence school sent Bill a good typist.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John considers Bill silly.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John considers Bill to be silly.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John bought a dog for himself to play with.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "no"
+  },
+  {
+    "instruction": "Does 'John arranged for himself to get the prize.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  },
+  {
+    "instruction": "Does 'John talked to Bill about himself.' have correct grammar? Please answer either yes or no.",
+    "input": "",
+    "output": "yes"
+  }
+]
