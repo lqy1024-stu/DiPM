@@ -1,0 +1,1502 @@
+[
+    {
+        "instruction": "Does 'Impossible.' imply that 'Impossible, unless circumstances are met.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The Gaiety Theatre in South King Street is worth visiting for its ornate d??cor.' imply that 'The Gaiety Theatre is decorated very ornately.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'He unleashed a 16-day reign of terror that left 300 Madeirans dead, stocks of sugar destroyed, and the island plundered.' imply that 'He unleashed a large debate over the 16-day reign that ended in a peaceful protest.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Standard print film is available in many shops in the major towns, but serious shutterbugs will want to seek out one of the following photography stores for a full range of specialist film and Abbey Photographic, 25, Stramongate, Kendal LA9 4BH; Tel. (01539) 720-085, or The Photo Shop, North Road, Ambleside, Cumbria LA22 9 DT; Tel. (015394) 34375.' imply that 'You can't find film anywhere in Kendal or Cumbria.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Under the overmechanical assumptions of affirmative-action opponents themselves (and putting aside the racial IQ theories of Murray and some others), blacks would move up the list, and whites would move down.' imply that 'Support for affirmative action laws has declined slightly over the past few years.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'That analysis is guided by an economist's faith in the maxim that people are generally pretty good at looking out for their own interests.' imply that 'People focus on the good of others'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Don't expect to be swinging much after midnight, even in towns.' imply that 'Things stay open all night because it's a place to party.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'it was really a nice compromise especially because she felt like she was still living in her own house and she still had her own couch and her own bed and it it really helped a lot and she was a lot more comfortable and she didn't' imply that 'It really works out well, she had all her own furniture and stuff, so she felt like it was her own home. This made her much more comfortable with the situation.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'He and his wife had lived at Styles Court in every luxury, surrounded by her care and attention.' imply that 'She had a beautiful garden at her disposal at Styles Court.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Game-trackers will be out by this time in an attempt to locate the tiger's hunting ground for the evening safari.' imply that 'The tigers will be eating their prey now.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Think of it this  When consumer confidence declines, it is as if, for some reason, the typical member of the co-op had become less willing to go out, more anxious to accumulate coupons for a rainy day.' imply that 'Coupon collecting is no longer allowed in most US stores.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Several pro-life Dems are mounting serious campaigns at the state level, often against pro-choice Republicans.' imply that 'Silly campaigns are being invented by dumb democrats.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'because i don't want to my mother was also a domineering type of personality because she had to take over the things that my dad fell short in' imply that 'My mother was domineering since she filled in my father's shoes.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The Lake District is not the place to come if you want lots of action into the early morning hours.' imply that 'The Lake District isn't where to go when you want a lot of action because it closes down before midnight!'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'they're almost five hundred a month for a one bedroom place' imply that 'The one bedroom units usually have just one bathroom.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'I never said you were a mandrake-man.' imply that 'I never once said or implied you were a mandrake.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The Joint Venture which has so amply justified itself by success!\" It was drunk with acclamation.' imply that 'The Joint Venture had justified itself by success.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'well uh normally i like to to go out fishing in a boat and uh rather than like bank fishing and just like you try and catch anything that's swimming because i've had such problems of trying to catch any type of fish that uh i just really enjoy doing the boat type fishing' imply that 'I fish in the boat and try catching any fish because I have trouble catching certain types.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'It focuses on desktop, client/server, and enterprisewide computing.' imply that 'Desktop computing is one the main focus areas.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'AC Green's pretty good' imply that 'AC Green is also a solid player.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'During the hottest hours, things come to a virtual standstill, though the Caribbean siesta is an hour or two shorter than its Mediterranean counterpart.' imply that 'Things slowed down because there were not enough people to assist.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend' imply that 'We still won't be able to mow for a couple of weeks.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'We come to a little difficulty here, since Mrs. Inglethorp never drank it.\"' imply that 'Mrs. Inglethorp did not drink it.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'in our town of five thousand we have one that is uh local FM AM station and their news is fed from CNN too uh it's more of uh' imply that 'The local town's radio station relied on CNN for news.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'With their fluent Vietnamese and Mandarin, they help Tran understand her family's eligibility for Medi-Cal and food stamps, assist the 70-year-old woman in finding a place to live and advise abused women how they can stay in the country while staying away from their husbands.' imply that 'Tran was advised on opportunities for her family.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'One reason for the high value of MLB teams is the prospect of new, publicly financed ballparks . Owners in Baltimore, Cleveland, Chicago, Denver, and Texas have all reaped major profits from these new facilities, built at little or no cost to the teams.' imply that 'MLB owners have been able to make at least 10 million in profit from new ballparks.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Around 1500 b.c. , a massive volcanic eruption at Santorini destroyed not only Akrotiri under feet of ash and pumice but the whole Minoan civilization.' imply that 'The entire Minoan civilization was destroyed by a volcanic eruption.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'But the state does arguably have an interest, compatible with the First Amendment, in stipulating the way those media are used, and Fiss' discussion of those issues is the least aggravating in his book.' imply that 'Fiss' discusses the state's interest in media use in his book.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Other pundits beam their opinions at us as through a time warp, from the hazy days of past administrations.' imply that 'The experts give opinions from current administrations.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Ca'daan heard the Kal grunt and felt the horse lift.' imply that 'Ca'daan was concerned about the grunting Kal.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'yeah so i i trotted back to the car rather quickly uh jumped in went home and took a hot shower and changed clothes and went back' imply that 'I drove home and made supper, then went back.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'On the window above the sink a small container is stuffed with bits of leftovers--the red berries of barberry, small twigs of willow, cuttings of hinoki cypress with its fruits attached, and the pendulous leathery seed pods of wisteria.' imply that 'There is a small jar on the window.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'or they had somebody at home that was ill that they had to tend to i mean you can't make it everybody' imply that 'They did not have anything to do.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'okay movies i've i haven't seen too many lately i have kids and we went and saw The Rescuers Down Under over the the break do do you have kids you take to movies or' imply that 'I took my kids to see the movie The Rescuers Down Under.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Or else it was administered in the brandy you gave her.' imply that 'There is no way it could have been in the brandy you gave her.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The second missing benefit includes gains in environmental quality, especially improved health benefits.' imply that 'One of the missing benefits is associated with better health and an increase in environmental quality.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Very often the emperor was only a minor, so that the Fujiwara patriarch acted as regent.' imply that 'Sometimes the emperor was less than 18 years of age.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The increased investment has contributed to higher GDP growth in recent years, and the stronger economy should help in servicing the debt owed to foreigners.' imply that 'Steep GDP decline in recent years has been contributed to increased investment.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'I am not aware of any studies comparing the number of words an average person could expect to hear spoken in a typical day 500 years ago vs. the number that can be heard now, but the increase surely is vast.' imply that 'Though I've never read any research regarding how many words people heard back then compared to now, I'm sure the number has gone up.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'On the northern slopes of this rocky outcropping is the site of the ancient capital of the island, also called Thira, which dates from the third century b.c. (when the Aegean was under Ptolemaic rule).' imply that 'The ancient capital of the island is called Thira, and dates back to the third century b.c.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'In the summer, the Sultan's Pool, a vast outdoor amphitheatre, stages rock concerts or other big-name events.' imply that 'There is an amphitheatre called the Sultan's Pool.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Ickes apparently made calls to donors from his government office, but there is no evidence so far that anyone else solicited funds in a federal building.' imply that 'There is evidence that many people solicited funds from a federal building.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'On Menorca, search for more elusive prehistoric sites, or take the cliff paths of the northwest or south coasts.' imply that 'Menorca is home to several well-hidden prehistoric sites.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'And yet, we still lack a set of global accounting and reporting standards that reflects the globalization of economies, enterprises, and markets.' imply that 'We have comprehensive global reporting standards that reflects the globalization of economies, and markets.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Moreover, these excise taxes, like other taxes, are determined through the exercise of the power of the Government to compel payment.' imply that 'Excise taxes are an exception to the general rule and are actually decided on the basis of GDP share.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Still, I guess that can be got over.' imply that 'It won't be possible to get passed that.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Waterloo.' imply that 'The defeat of Napoleon.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'That first glimpse of the towering, steepled abbey rising from the sea on its rock is a moment you will not forget.' imply that 'The sight of the abbey atop a rock in the sea is a stunning view.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The crucial part of that world is the home where parents relate to children.' imply that 'Parents relating to children in the home is important to the world.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The main gate of the churchyard leads out to Greyfriars Place, and across the street you will find an excellent view of one of Scotland's newest museums.' imply that 'Near the church you can see Greyfriars Place and a new museum.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'More detailed implementation plans also will be necessary to address business system, processes, and resource issues.' imply that 'Plans are complex'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'oh my  uh-huh uh-huh' imply that 'Please stop talking.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'But it's for us to get busy and do something.\"' imply that '\"We don't do much, so maybe this would be good for us to bond and be together for the first time in a while.\".'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'because i don't want to my mother was also a domineering type of personality because she had to take over the things that my dad fell short in' imply that 'My mother made me take over the things that my dad fell short it.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'His heels clicked together.' imply that 'His heels had hurt after clicking.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Auditors may use an engagement letter, if appropriate, to communicate the information.' imply that 'Auditors may not use an engagement letter to communicate.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Even the lower limit of that differential compounds to a hefty sum over time.' imply that 'The small number will go into a larger sum over time.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does ': Adrin's Third Lesson' imply that 'Adrin had three lessons.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'looking at that and you know and if it's if it's funny or if it keeps my interest if it's exciting i'll watch it if not i don't and times that i saw that or pieces of that it wasn't any it wasn't great Thirty Something i watched a few times because there was a few good episodes and then after that it it i just lost interest in it' imply that 'I've never watched Thirty Something because none of the episodes were any good.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'oh it's fun i call' imply that 'It is not fun.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Another quarter billion plus dollars of the total amount sought was earmarked to pay down operating debt accrued in past years.' imply that 'Another quarter billion dollars or more was earmarked to pay bonuses.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Whether you drink beer or alcohol or not, a trip to Dublin isn't complete without a visit to some of its pubs don't miss this experience.' imply that 'Dublin's pubs are beautiful and evocative, worth a trip even if you don't drink'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'oh really yeah so he he's uh he's probably going to be going to jail and and the problem with him is he's on a guaranteed salary like for three years so whether he plays or not they've got to pay him ten million dollars so if they' imply that 'His income is on guaranteed terms, meaning that even if he is jailed and can't play, he still gets his salary as per normal.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'After being diagnosed with cancer, Carrey's Kaufman decides to do a show at Carnegie Hall.' imply that 'Carrey's Kaufman was diagnosed with cancer before deciding to do a show at Carnegie Hall.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'He had forgotten about Adrin.' imply that 'He remembered Adrin all this time.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Case Studies in Science Education.' imply that 'Case studies in writing.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'For more than 26 centuries it has witnessed countless declines, falls, and rebirths, and today continues to resist the assaults of brutal modernity in its time-locked, color-rich historical center.' imply that 'The historical center is quite new, and rather bland.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '1 Now that each unit is fully staffed, the LSC Office of Program Performance and its state planning team contain over 260 years of experience in LSC-funded programs.' imply that 'The LSC has over 1260 years of experience with their staff.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'H-2A aliens, as the only category of eligible aliens who reside in the United States temporarily, are particularly affected by the issue before the Commission because of their necessarily short periods of time in the United States.' imply that 'Most H-2A aliens are from somewhere beyond Mars orbit.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The oldest continually occupied settlement on the island is Kastro, where most of the buildings date from the 14th century and were laid out in a circular pattern atop a rocky outcrop 100 m (300 ft) above the east coast.' imply that 'The buildings in Kastro are dated back to the 14th century.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Punditus Interruptus, The Final' imply that 'The Beginning of Punditus Interruptus'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'um we tried that but we really weren't happy with it so he does that all himself now' imply that 'We tried valiantly, but because one of us wasn't happy with it, he decided to do it all himself.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The way we try to approach it is to identify every legal problem that a client has.' imply that 'Identifying every legal problem makes it easier to help the client.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'These rules implement section 106 of the Federal Crop Insurance Reform Act of 1994.' imply that 'The Federal Crop insurance Reform Act was passed in 1994.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'To help identify solutions to this problem, Senators Fred Thompson and John Glenn, Chairman and Ranking Minority Member, respectively, of the Senate Committee on Governmental Affairs, requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies.' imply that 'There are no problems in the security of federal agencies.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'This having come to his stepmother's ears, she taxed him with it on the afternoon before her death, and a quarrel ensued, part of which was overheard.' imply that 'A love affair sparked just moments before her death.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The analyses utilized different assumptions and generally resulted in smaller expenditure impact estimates than noted above.' imply that 'The differing assumptions of the analyses resulted in different estimate than noted.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'But I guess I can take it we were wrong, pursued Julius.' imply that 'Julius was right that we were incorrect.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Not surprisingly, then, Fannie Mae's public-relations operation is unparalleled in Washington.' imply that 'Fannie Mae has a public-relations team of forty.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'This number represents the most reliable, albeit conservative, estimate of cases closed in 1999 by LSC grantees.' imply that 'This estimate is likely to be lower, or conservative.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'approaches to achieving missions vary considerably between agencies.' imply that 'Approaches to achieving missions might change a lot from the FDA to the IRS.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Through a friend who knows the lift boy here.' imply that 'Through my friend has not yet met the lift boy here.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'oh older ones too i know a few of those' imply that 'I know a few old ones.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'I regretfully acknowledge that it may even make practical sense to have a few hired guns like Norquist, Downey, and Weber around--people of value only for their connections to power, not for any knowledge or talent.' imply that 'It might be a good idea to have hired guns around.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'This is arguably starting to distort the practice of science itself.' imply that 'Scientific practice was changed by this method.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Paroseas cave, reef, and wreck diving around its shores, giving the diver a wide range of environments to explore.' imply that 'The scenery is unique and can't be found anywhere else.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'yes well yeah i am um actually actually i think that i at the higher level education i don't think there's so much of a problem there it's pretty much funded well there are small colleges that i'm sure are struggling' imply that 'Small colleges usually have trouble with funding and resources.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Medicare gross outlay projections based on intermediate assumptions of the 2001 HI and SMI Trustees' reports.' imply that 'The HI and SMI Trustee reports also include economic condition forecasts.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The Romans never really infiltrated Ibiza, and even after the defeat of Hannibal in 202 b.c. during the Second Punic War their influence was restrained.' imply that 'The Romans didn't infiltrate Ibiza because it wasn't valuable.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Slate continues to be available on MSN and directly on the Web at slate.com.' imply that 'Slate can be download from MSN and its website.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Then he gave in.' imply that 'He would not give in.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'and see the thing is you know he go out and he'll spend it when he wants you know and uh uh i'm afraid to i'm afraid to use that credit card' imply that 'I'm scared to use the credit card.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Well aware of the island's burgeoning wealth and repository of supplies, the French pirate Bertrand de Montluc sailed into Funchal harbor with his 11-galleon armada and 1,300 men.' imply that 'Bertrand de Montluc arrived at the island with a great force of men.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Took forever.' imply that 'Was quick'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'and my and my part-time work you know it's not our the restaurant our favorite restaurant in the town of Salisbury where actually we live you know where my where i'll return to my job or whatever we can normally eat out for um under fourteen dollars' imply that 'My first part time job was in a restaurant in Salisbury where you could eat out for under $14.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Improved products and services   Initiate actions and manage risks to develop new products and services within or outside the organization.' imply that 'Managed risks lead to new products'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The Ovitz deal, however, contained none of these goodies.' imply that 'The Ovitz deal did contain some alternative goodies.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Were you in company with anyone?' imply that 'Was anyone with you?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does ''Publicity.' Lincoln removed his great hat, making a small show of dusting it off.' imply that 'Lincoln kept his hat on.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Together they had a force of 130 attorneys and the responsibility to serve the civil legal needs of about 550,000 poor and vulnerable people throughout the state.' imply that 'The lawyers were feeling burnt out by the demand and the lack of resources.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Weicker has yet to declare his intentions.' imply that 'Weicker has only the very best of intentions.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Consistent with GAO's Congressional Protocols, GAO will then offer the requester(s) a draft of the product that is with the agency for comment.' imply that 'Offering a draft of the product for comment is consistent with GAO's Congressional Protocols.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Saddam could emerge strengthened (and America tarnished) in the eyes of the Arab world.' imply that 'Saddam could turn out stronger.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'life in prison then he's available for parole if it's if it's life and a day then he's not eligible for parole so what you know let's quit BSing with the system' imply that 'The system is fair and he'll receive the sentence he deserves regardless of parole.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'To see the desert at its best, go out at dawn and at sunset.' imply that 'Go at noon to see the desert for the best view.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'FEC Chairman Scott Thomas, a Democrat who was also at the conference, noted that the Federal Election Campaign Act of 1971 outlined three principles that need to be preserved on the  1) disclosure of how money is raised and spent to influence elections; 2) limits on the amount that any one person can contribute to a campaign; and 3) restrictions on independent spending by corporations and unions.' imply that 'Scott Thomas was the FEC Chairman who attended the conference in NYC.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Executives do so by examining their internal environments and asking a series of questions about the problems that need fixing, how information technology and management can help, and how a CIO might best fit within their management structures to guide technology solutions.' imply that 'Executives should not consider how information technology is currently used when crafting a CIO.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'do you think most states have that or' imply that 'In your opinion, do most states have that?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'i don't know i i do i can think of all the uh the biblical things about it too where what did they say to uh i can't think of the scripture Render unto Caesar's what is Caesar's so' imply that 'I know there are things related to religion and the bible.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Guards would regulate those who entered and departed.' imply that 'Guards let people come and go freely.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The other is retrospective and intended to help those who review case study reports to assess the quality of completed case studies.' imply that 'The guidelines are given so that reviewers can have consistent results.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The panels are to collect advice and recommendations from representatives of affected small entities as part of their deliberative process.' imply that 'The panels will collect advice, along with data from representatives of the affected entities.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'For more sweeping panoramas, you can hike for less than an hour to either summit Petit-Bourg (716 m/2,349 ft) or Pigeon (770 m/2,526 ft).' imply that 'Most people who visit choose to hike the extra half hour up to at least one summit for the beautiful views.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'This one-at-a-time, uncoordinated series of regulatory requirements for the power industry is not the optimal approach for the environment, the power generation sector, or American consumers.' imply that 'This is not the optimal approach.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Each edition of the DSM is the product of arguments, negotiations, and compromises.' imply that 'The new addition of NPD in DSM came with a lot of arguments.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'That's an opportunity that very few people have had.' imply that 'Not many people get the chance to swim with sharks.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'And you are wrong in condemning it.' imply that 'You shouldn't be speaking out against it.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'but i think a lot of kids it's funny get the same kind of fears like there's somebody under the bed' imply that 'I believe that many children think it's amusing, the similar uneasiness that there's someone beneath the bed or hiding in their closet.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'they they are good' imply that 'They're excellent.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Search out the House of Dionysos and the House of the Trident with their simple floor patterns, and the House of Dolphins and the House of Masks for more elaborate examples, including Dionysos riding a panther, on the floor of the House of Masks.' imply that 'The House of Dolphins and the House of Masks are more elaborate than the House of Dionysos and the House of the Trident.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Tabulations of actual meetings and of consequent actions for same-agency funded and different-agency funded services can help check out whether this impression is reliable.' imply that 'The reliability of impressions simply can't be measured by tabulating meetings to any degree.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Neither does it include the mail sent in response to advertising.' imply that 'It does not include the mail sent in response to advertising.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'As he stepped across the threshold, Tommy brought the picture down with terrific force on his head.' imply that 'Tommy lightly put the picture on his head.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Now then, Miss Tuppence, said Sir James, \"you know this place better than I do.' imply that 'Sir James strode off, exclaiming that he didn't need any help.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '32 Under the RSA proposal, a worker between the ages of 25 and 60 with family earnings of at least $5,000 could contribute up to $1,000 annually through either an employer-sponsored saving plan or a tax-deferred individual account.' imply that 'Most workers could contribute up to $1,000 each year.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Mr. Erlenborn attended undergraduate courses at the University of Notre Dame, Indiana University, the University of Illinois, and Loyala University of Chicago.' imply that 'Mr. Erlenborn earned all of his undergraduate credits at the University of Notre Dame.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Growth continued for ten years, and by 1915 the town had telephones, round-the-clock electricity, and a growing population many of whom worked in the railroad repair shop.' imply that 'Growth was stifled, and most of the population couldn't find work.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Also, stakeholders may not interpret principles consistently, and it is important for stakeholders to have the same conceptual framework as preparers when interpreting a principle.' imply that 'stakeholders may not interpret principles consistently'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The ITC has enlisted legal services attorneys from across the state to manage each of the 12 categories, and those volunteers will organize contributions and add them to a searchable database.' imply that 'They volunteers were happy to help.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'you want to punch the button and go' imply that 'You should start going before punching the button.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'well that's right because uh one day it'll be eighty and the next day it'll be about thirty below i tell you what and uh' imply that 'In the eastern United States the temperature often changes quickly.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The Edinburgh International Festival (held annually since 1947) is acknowledged as one of the world's most important arts festivals.' imply that 'The festival showcases exhibitions from all seven continents.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Hindus then went on the rampage through Sikh communities, resulting in a round of communal violence.' imply that 'Hindus brutally slaughtered Sikhs on a rampage through Sikh communities.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'i understand i can imagine you all have much trouble up there with insects or' imply that 'well, at least you don't have any insects there'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The Celts arrived in the wake of the Roman withdrawal at the end of the fourth century.' imply that 'At the end of the fourth century was when baked goods flourished.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'How long, Thaler and Siegel ask, will it take most investors to get wise to the fact that the equity premium is just too damned high?' imply that 'Thaler and Siegel think that many investors already know that the equity premium is too high.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'oh, just about nothing.' imply that 'Yes, there is a ton.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Not surprisingly, then, Fannie Mae's public-relations operation is unparalleled in Washington.' imply that 'Fannie Mae had terrible public-relations.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '5 percent for educational lay programs relating to law and justice, and other public service programs such as the High School Mock Trial Competition and numerous publications.' imply that 'Educational lay programs deal with law and justice.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'and the professors who go there and you're not going to see the professors you know you're going to see some TA you know uh' imply that 'The professors don't really care about their students.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'and not only that it it opens you to phone solicitations' imply that 'It also opens the door to move marketing calls.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'We have done that spectacularly.' imply that 'Spectacular results was the only way to describe the impact of our past work.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'LSC's State Planning Initiative began in 1995 primarily in response to the programmatic changes and budget cuts that were threatening the very survival of legal services delivery across the nation.' imply that 'The LSC State Planning Initiative was the first of its kind among similar organizations.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'and when they get out they should have uh i don't know you know some reasonable amount of money' imply that 'They should have ample financial capacity upon release.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'once you have something and it's like i was watching this program on TV yesterday in nineteen seventy six NASA came up with Three D graphics right' imply that 'I was watching a program about gardening.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'In this respect, bringing Steve Jobs back to save Apple is like bringing Gen.' imply that 'Steve Jobs unretired in 2002.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does '3)  Dare you rise to the occasion, like Raskolnikov, and reject the petty rules that govern lesser men?' imply that 'Would you rise up and defeaat all evil lords in the town?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Cirque du Soleil's The latest from the acclaimed international troupe, O dazzles in an aquatic environment that utilizes 1.5 million gallons (6.8 million liters) of water.' imply that 'Cirque du Soleil is an international troupe.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Britons, however, trumpet their poet laureate as worthy of the ranks of Blake, Keats, Hardy and Auden (the Times of London).' imply that 'Britons do not trumpet their poet laureate.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'She was alone at last with the president!' imply that 'At last, she has not been alone with the president!'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'On Fox News Sunday , host Tony Snow touted a poll showing that 60 percent of Americans think the allegations represent a pattern of behavior.' imply that 'Tony Snow has been the host on Fox News Sunday for four years.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'He had no real answer.' imply that 'He didn't have the answer to the question I posed.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'This is the island's main city and financial, governmental, and administrative centre, and its charms match those of other Mediterranean  jewels.' imply that 'The city is nowhere near as charming as other Mediterranean cities.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'is that what you ended up going into' imply that 'How did you decide to do that?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'A button on the Chatterbox page will make this easy, so please do join in.' imply that 'They wanted to make the site very user friendly.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Still, I guess that can be got over.' imply that 'I suppose you can get over that.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The 37 hectares (91 acres) of garden are set on lands above the Wag Wag River, which twists through a steep and narrow valley.' imply that 'The Wag Wag River was named as such because it resembles a dog's tail.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'They are the four sentences you always insert in plagiarized papers to throw the professor off track.' imply that 'Professors can be thrown off track by four particular sentences in an otherwise plagiarized paper.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'On the Use of Generalized Additive Models in Time-Series Studies of Air Pollution and Health.' imply that 'Pollution is very dangerous to our health.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'They just don't like it as much as men do.' imply that 'They like it way more than men do.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '120 \"You do not think I ought to go to the police?\"' imply that 'So you want me to call the cops?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'She graduated in 1995 owing $58,000 in loans.' imply that 'She owed nothing.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Coast Guard rules establishing bridgeopening schedules).' imply that 'The Coast Guard is in charge of opening bridges.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Chennai, known until 1996 as Madras, is easy-going, pleasant, and remarkably uncrowded.' imply that 'The city's designation as sacred ground deters any typically rowdy behavior.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'If I work at it, I might even be able to pick up some endorsements from members of the Sonics.' imply that 'I need to work hard to accomplish my goals.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'I am glad she wasn't, said Jon.' imply that 'Jon was glad that she wasn't.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Like Arabs and Jews, Diamond warns, Koreans and Japanese are joined by blood yet locked in traditional enmity.' imply that 'Koreans and Japanese have no tension between them.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'H-2A aliens, as the only category of eligible aliens who reside in the United States temporarily, are particularly affected by the issue before the Commission because of their necessarily short periods of time in the United States.' imply that 'H-2A aliens have short periods of time in the United States.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'His family had lost a son and a daughter now.' imply that 'The family had children that have passed away.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'This doesn't look good.' imply that 'This looks really bad but I have a plan.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The fine weave and pattern are typical of a Scottish weaver's attention to detail.' imply that 'Scottish weavers are the best in the world.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened.' imply that 'His short, feeble strides soon left him trailing far behind.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Or just a philosophy of any weapon to hand?' imply that 'They go with any weapon.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Legal Services Corp., 02-CV-3866, names as defendants the national Legal Services Corp., which distributes federal grants to providers, and Legal Services of New Jersey, which distributes state money.' imply that 'Legal Services of New Jersey did nothing wrong.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does ''Pardon me for saying so, but I really don't think this is the time for an entree,' I said.' imply that 'This isn't the time for a main course I didn't think.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Marina del Rey is another, where you can also charter a yacht.' imply that 'Marina del Rey is the areas premier dingy rental location.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'I'm confused.' imply that 'I don't understand.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Said we was a-staying at the inn.' imply that 'He was staying at the inn.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'HE KNOWS ABOUT THE MINES.' imply that 'He is aware that the mines exist.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The organizations usually allowed individual members who had changed employers to continue participation.' imply that 'The organizations usually got angry at people for leaving.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'New York Times Book Review Editor Charles McGrath, a former deputy to William Shawn at the New Yorker , calls Lillian Ross' memoir about her affair with Shawn on occasion factually inaccurate or misleading and a betrayal of Shawn's high editorial principles.' imply that 'McGrath says that Lillian Ross' affair was not portrayed correctly.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'From here it's all through the charming hillside village of Saint-Claude, with its upper-income homes, and on toward the summit or as far as the gendarmes are allowing traffic to proceed that day.' imply that 'The upper-income homes are very decadent and majestic.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'To see the desert at its best, go out at dawn and at sunset.' imply that 'Optimal times to really experience what the desert has to offer are at sunrise and sunset.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Friendly Fire , by Joe Lovano and Greg Osby (Blue Note Records).' imply that 'Joe Lovano didn't contribute anything to Friendly Fire.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'No, Dave Hanson, you were too important to us for that.' imply that 'Yes,Dave Man, you are not important to us.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'My unborn children will never appear on the Today show.' imply that 'My sons and daughter will be anchors on the Today show.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'My usual partner.'' imply that 'My partner I usually have.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The tomb guardian will unlock the gate to the tunnel and give you a candle to explore the small circular catacomb, but for what little you can see, it is hardly worth the effort.' imply that 'The tour guardian will not allow anybody inside.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain.' imply that 'Madrid became the capital of Spain as the decision of Felipe II.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'But anyway, never underestimate the power of hypocrisy.' imply that 'Hypocrisy doesn't have any power.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'When I was in school I really liked Virginia Woolf, Schwartz said of her nascent literary tastes.' imply that 'I have always hated Virginia Wolf and hope she dies.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The primary screen must be integrated into the standard intake procedure of the emergency setting and must be the responsibility of the staff to administer to all patients.' imply that 'The primary screen is the responsibility of the staff to be given to all patients.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Several pro-life Dems are mounting serious campaigns at the state level, often against pro-choice Republicans.' imply that 'These democrats will do anything to get pro-life to become nationwide.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Once they know their Social Security benefits promised under current law, workers can calculate how much they can expect from employer-sponsored pension plans and how much they need to save on their own for retirement.' imply that 'Employer sponsored pension plans give workers money so that they can save for retirement.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Kill chickens.' imply that 'Do not touch the chickens.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'right well the preseason really doesn't mean anything either' imply that 'It is alright that they don't play well in the preseason, since it doesn't matter.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Simpson through the tunnels of time.' imply that 'Simpson through the unpredictable nature of the what will happen.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'It profiles a new kind of office superstore-cum-hotel that sells generic office space to lonely telecommuters.' imply that 'There's no space available to lonely telecommuters.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'I feel, though, that I should like to point out to you once more the risks you are running, especially if you pursue the course you indicate.' imply that 'I want to join you on this course and forget about the risks.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Sainte-Anne itself has a long, broad beach used not only by fishermen in vividly painted boats, but also by families with small children.' imply that 'The families attending the beach of Sainte-Anne commonly purchase seafood meals from the fishermen as they return with their catch.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'it's just it's the morals of the people which i mean i guess we everybody's responsible for the society but if i had a child that that did things so bad it's not they don't care about anybody these people they're stealing from they're just the big bad rich guy' imply that 'I have no issue with people stealing from others.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'excessively violent i was worried it's like golly if kids start imitating that' imply that 'It was non-violent, so it would be great for the kids to follow their lead.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '4) Not enough is known about how nontransportation costs vary with distance.' imply that 'The reason for the lack of information is the fact that what goes into nontransportation costs can differ dramatically by individual.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'well uh what do you think about taxes do you think we're paying too much' imply that 'Do you think our taxes are too high?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'and the other thing is the cost it's almost prohibitive to bring it to a dealer' imply that 'It's cheap to bring it to a dealer.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Some experts say there's a greater chance of a making a catch in the cooler days of spring and autumn, and in the hours after sunset.' imply that 'Experts say you should never try to make a catch after sunset.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'A succession of discoveries has taught us about archeabacteria, very ancient and primitive single-cell organisms that live in the places you'd least expect anything to call home.' imply that 'Several discoveries have showed us the existence of archaebacteria and the places on and off earth you'd least expect them to call home.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Perhaps a further password would be required, or, at any rate, some proof of identity.' imply that 'Identity should be a minimum requirement.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Meet the Press host Tim Russert took his Christmas vacation five days early by letting Rep.' imply that 'Tim Russert took an early vacation be letting no one know.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'exercise is not supposed to do that to you' imply that 'Exercise isn't supposed to do that.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'did you use a textured paint or' imply that 'Did you use red bricks?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The Implementation of National and European Legislation Concerning Air Emissions from Large Combustion Plants in Germany' imply that 'Germany has large combustion plants.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Candidates must submit a set of fingerprints for review by the FBI.' imply that 'Candidates do not have to have their fingerprints taken.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Poor Dave, she said.' imply that 'She felt bad for Dave, he died a terrible death.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'All requests to provide live testimony at one of the two public hearings were granted.' imply that 'Most of the people who requested a live testimony ended up being dissapointed.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '4 million homes watch the evening news on CBS, ABC, and NBC.' imply that 'CBS, ABC and NBC are the leaders in news.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'The cuts will take the biggest bite out of Land of Lincoln, a network of eight offices and 40 lawyers who help clients in southern Illinois with problems like eviction, access to Social Security and obtaining orders of protection from abusive spouses.' imply that 'Lawyers in the network will receive a billion dollar increase to their budgets.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'If a trace of tropical lethargy still adds to the charm in this city of sidewalk cafe, palm trees, and pedicabs, any torpor definitely ends once inside the doors of Macau's casinos, scene of some of the liveliest gambling west of Las Vegas.' imply that 'Macau houses some of the most intense casinos outside of Las Vegas.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Tracking down the tiger is a subtle affair, and requires a degree of dedication, calm, and stealth.' imply that 'It is best to be loud and make sudden movements to scare the tiger into the open.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'H-2A agricultural workers are required to maintain a foreign residence which they have no intention of abandoning.' imply that 'These residences must be verified in person by local authorities before a visa is granted.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Moreover, it is possible to have questions that require nested case studies.' imply that 'Also, questions can require nested case studies, so wrap your heand around it.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'um-hum what is your worst then' imply that 'Then what is your worst?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Benchmarked by U.S.' imply that 'The benchmark is notable.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'They do not know it themselves.'' imply that 'They know it all.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'This testing of the marketplace may range from written or telephone contacts with knowledgeable federal and non-federal experts regarding similar or duplicate requirements and the results of any market test recently undertaken, to the more formal sources-sought announcements in pertinent publications (e.g.' imply that 'This marketplace testing should involve only formal surveys.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Part of the reason for the difference in pieces per possible delivery may be due to the fact that five percent of possible residential deliveries are businesses, and it is thought, but not known, that a lesser percentage of possible deliveries on rural routes are businesses.' imply that 'We all know that the reason for a lesser percentage of possible deliveries on rural routes being businesses, is because of the fact that people prefer living in cities rather than rural areas.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'In manual systems, attestations, verifications, and approvals are usually shown by a signature or initial of an individual on a hard copy document.' imply that 'The only things that signatures in manual systems show are attestations, verifications, or approvals.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Have her show it,\" said Thorn.' imply that 'Thorn told her to hide it.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The final rule contains a Federalism Assessment under Executive Order' imply that 'The final rule had a federalism assessment that was added through a special election.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Programs in Michigan and the District of Columbia received one-year grant terms for 2002.' imply that 'Programs in Michigan receive one-year grant terms.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'although the uh it's uh it we almost one day we painted the house to uh we painted we painted the whole inside and it had all this dark trim we thought uh you know we did the one wall but the other trim i'm trying to think i think i think we left most of it because it gets to be uh they don't do that in the newer houses now we don't the uh mold everything is white in a new house everything is white' imply that 'We painted the house over the duration of one day.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Such experience better enables the CIOs to work with business managers to build a shared vision for meeting mission needs.' imply that 'They are able to have the same vision because of their previous involvement.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'yes uh i bought a uh Bristol thirty five five for my wife' imply that 'My wife has a Bristol 355, which I bought for her.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'yeah maybe the maybe they'll bring their good schools with them  you know if the industry comes' imply that 'If the industry comes, they probably bring bad schools with them.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Lydians and Persians' imply that 'Persians and Lydians did not exist.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Upriver, east of Blois, in a huge densely wooded park surrounded by 31 km (20 miles) of high walls, the brilliant white Ceteau de Cham?­?­bord is the most extravagant of all the royal residences in the Loire Valley.' imply that 'The Ceteau de Chambord is an ugly, unremarkable hut in an open field.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'I lay awake waiting until I judged it must be about two o'clock in the morning.' imply that 'I assumed that it was two o'clock in the morning.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'and the NIT semifinals are on tonight' imply that 'The NIT semifinals take place tonight.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'It's come back? cried Julius excitedly.' imply that 'News of it being gone left them devastated.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Some travelers add Molokai and Lanai to their itineraries.' imply that 'Molokai and Lanai are out of the way and harder to plan for.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Look out for that overseer up there.' imply that 'Watch out that you do not bump your head on the overseer.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'One he broke back to about the length of his forearm.' imply that 'He snapped something to be as long as his forearm.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Number of testimonies' imply that 'They are all from constituents.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'no nobody's going to bother you' imply that 'No one will bug you.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'i'm kind of familiar with the weather out that way in west Texas but not in not in Lewisville' imply that 'Lewisville does not have a weather reporting station.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Guangzhou, with a population of more than 5 million, straddles the Pearl River China's fifth longest which links the city to the South China Sea.' imply that 'Pearl River is the fifth longest river in China.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The entrance is also home to several sculptures, including one of Carlyle, the gallery's founding father.' imply that 'The entrance is the sole home of a painting by Van Gough.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Shoot only the ones that face us, Jon had told Adrin.' imply that 'Shoot the ones that face us, Adrin told Jon'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Because marginal costs are very low, a newspaper price for preprints might be as low as 5 or 6 cents per piece.' imply that 'Newspaper preprints may cost as little as a nickel.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Don't miss the open-air market close by the wharves.' imply that 'The open air market is not a great place to see.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The first, reached from Luxor, is Esna, 54 km (33 miles) by road.' imply that 'Esna is located 54km away from Luxor.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'i don't know no i don't' imply that 'I used to know, now I don't.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Julius Caesar's nephew Octavian took the name Augustus; Rome ceased to be a republic, and became an empire.' imply that 'Rome never ceased to be a republic, and did not become an empire.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'yes yeah yeah well it it that's right and it' imply that 'that's right, yes'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The vineyards hug the gentle slopes between the Vosges and the Rhine Valley along a single narrow 120-km (75-mile) strip that stretches from Marlenheim, just west of Strasbourg, down to Thann, outside Mulhouse.' imply that 'The slopes between the Vosges and Rhine Valley are the only place appropriate for vineyards.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'In short, most of the whale is incompressible.' imply that 'Every part of a whale is compressable.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'The route passes in sight of two uninhabited Es Vedr? , which hovers like an apparition on the horizon off to the west, and Espalmador, which is popular with yachtsmen for its white-sand beach.' imply that 'The route pass is uninhabited.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The first installment of the Star Wars Trilogy Special Edition opened in theaters everywhere.' imply that 'The second installment of Star Wars is in theaters.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'I admit I have knowledge of a certain name, but perhaps my knowledge ends there.\"' imply that 'I know the name, but not much else.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'SSA will consider the comments received by April 14, 1997, and will issue revised regulations if necessary.' imply that 'The regulations will be revised as necessary after the SSA considers the comments received before April 14, 1997.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'McCalpinMaria Luisa Mercado Nancy H. Rogers Thomas F. Smegal, Jr.' imply that 'Nancy Rogers is involved in the state's project.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'so well i think we've taken up at least five minutes' imply that 'I've taken up too much of the last bit of time so you should go.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'i guess it's just you know and when i think about that lady this this particular lady who wrote me a check for twelve dollars and it bounced and i sent it through you know sent it through the check through the bank once and she incurred at least a fifteen dollar fee' imply that 'She didn't realize when she wrote the check that she didn't have enough money in it.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Managing better requires that agencies have, and rely upon, sound financial and program information.' imply that 'Agencies that rely on information based on unsound financial information will have management problems.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Penrith and Blencathra are also Celtic names, established during this early period of settlement.' imply that 'Penrith and Blencathra are Celtic names which were established in this early period.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Acute Bronchitis Upper Respiratory Symptoms Lower Respiratory Symptoms Work Loss Days Minor Restricted Activity Days (minus asthma attacks)' imply that 'Acute bronchitis does not lead to loss of work days.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'yeah it's true it is in in fact i have a friend of mine that moved to North Carolina she's um an emergency room nurse she does the operating room' imply that 'This person I'm close to is an emergency room nurse at a hospital in North Carolina.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The number of steps built down into the interior means that it is unsuitable for the infirm or those with heart problems.' imply that 'There are a hundred steps leading into the interior.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Such parties may include' imply that 'Parties could or could not include'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'The almost midtown Massabielle quarter (faubourg de Massabielle), is sometimes described as the most picturesque in the city.' imply that 'The Massabielle quarter is a very touristy place.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'I can't help but wonder if Shuger thought to ask himself a few simple questions before launching his attack-- questions such as, did Tripp ask to be moved to her current job?' imply that 'I am not sure if Shuger took a moment to reflect before attacking.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'What's truly striking, though, is that Jobs has never really let this idea go.' imply that 'Jobs clung to an idea.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Piccadilly Tube station.' imply that 'Piccadilly Circus station.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does '36 million could mean the state's legal services for the poor will lose six of their 21 regional offices, the head of a poverty-law resource center said.' imply that 'The state's legal services department could lose a lot of funding.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'It started with The Wild Bunch : We sexualized violence, we made it beautiful.' imply that 'Violence is now look at in the positive due to The Wild Bunch.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'yes they would they just wouldn't be able to own the kind of automobiles that they think they deserve to own or the kind of homes that we think we deserve to own we might have to you know just be able to i think if we a generation went without debt then the next generation like if if our our generation my husband and i we're twenty eight if we lived our lives and didn't become you know indebted like you know our generation before us that um the budget would balance and that we became accustomed to living with what we could afford which we wouldn't be destitute i mean we wouldn't be living on the street by any means but just compared to how spoiled we are we would be in our own minds but i feel like the generation after us would oh man it it would be so good it would be so much better it wouldn't be perfect but then they could learn to live with what what they could afford to save to buy and if you want a nicer car than that well you save a little longer' imply that 'I am glad our generation has no debt.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'John Kasich dropped his presidential bid.' imply that 'John Kasich got cancer and had to drop his bid.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'yeah that's up here in New England that's we call that backpacking which is the same thing which is you're you've got everything on your back you know an aluminum camp frame uh' imply that 'In the Northeastern United Stated, they hike with all of their supplies on their back.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'But you would not trust me.\"' imply that 'It is understandable because I have broken your trust numerous times.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'plus i like to dance you know' imply that 'I hate dancing, you know.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'On the second point, Judge Newton said in a recent interview, I've heard this complaint a hundred times.' imply that 'Judge Newton had never heard that complaint before.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'There are also a couple of small aircraft lying offshore (relics of drug runners who ran out of luck) that make fascinating artificial dive sites.' imply that 'Most of the crashed airplanes were hauling drugs from Cuba.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'This site provides information links, tools, and resources developed for the benefit of the audit profession, including audit programs, best practices, and research services.' imply that 'This site is a special portal for people who wish to make anonymous complaints about auditors.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'For such a governmentwide review, an entrance conference is generally held with applicable central agencies, such as the Office of Management and Budget (OMB) or the Office of Personnel Management.' imply that 'An entrance conference is held with central agencies each year.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'It is the official solution, Liq.' imply that 'This is officially the solution.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Information  Computer Attacks at Department of Defense Pose Increasing Risks' imply that 'The computer attacks on the Department of Defense are too powerful to handle.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Princes Street is to Scots what Oxford Street is to the English the premier shopping street of the land.' imply that 'Princess Street is the premier shopping street in England.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'For example, the moderate scenario assumes a 50% or $1.' imply that 'Moderate scenario absdorns 0%'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Classic Castilian restaurant.' imply that 'The restaurant also features international food.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'Don't you know?' imply that 'Don't you know the answer to that?'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'However, the other young lady was most kind.' imply that 'I received a warm welcome from the other young lady who was present.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'He knew how the Simulacra was supposed to develop.' imply that 'He knew how the Sim would be created in the game.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'yeah well my uh my uh probably one of the biggest decisions i think that was very strengthened for our family was rather than have one child make that decision' imply that 'Our children played a huge role in making this decision.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'This one-at-a-time, uncoordinated series of regulatory requirements for the power industry is not the optimal approach for the environment, the power generation sector, or American consumers.' imply that 'It is not the optimal approach.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'Enthusiasm for Disney's Broadway production of The Lion King dwindles.' imply that 'The broadway production of The Lion King is no longer enthusiastically attended.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'You can eat and shop in and around the once-magnificent and heavily fortified Crusader city, with its enormous ramparts and cathedral.' imply that 'The city has remained abandoned and desolate since ancient times.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    },
+    {
+        "instruction": "Does 'Unsurprisingly, golfing is prohibitively expensive.' imply that 'It costs $100 to golf just 9 holes!'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "maybe"
+    },
+    {
+        "instruction": "Does 'In 1099, under their leaders Godfrey de Bouillon and Tancred, the Crusaders captured the Holy City for Christendom by slaughtering both Muslims and Jews.' imply that 'The Crusaders captured the Holy City.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'huh-uh the the yeah see the Taurus Show has the spoiler kit and the and the big engine and the and stuff like that' imply that 'The Taurus show had some spoiler kits.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "yes"
+    },
+    {
+        "instruction": "Does 'i know that i didn't much uh-huh oh' imply that 'I might have done a bunch.'? Please answer either yes, no, or maybe.",
+        "input": "",
+        "output": "no"
+    }
+]
