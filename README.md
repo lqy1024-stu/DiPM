@@ -5,8 +5,14 @@
 Overall framework of DiPM, including: decoupler, modulator, and recombiner.
 
 ## train -- train data
+### multi-tasking: mnli.json / mrpc.json / cola.json / rte.json
+### unlearning: alpaca.json / wizard.json / toxic.json
+### transfer: neutral.json / republican.json
 
 ## test -- test data
+### multi-tasking: mnli.json / mrpc.json / cola.json / rte.json
+### unlearning: toxic_instruction.json
+### transfer: neutral.json / republican.json
 
 ## evaluation -- evaluation procedure on the test set
 
