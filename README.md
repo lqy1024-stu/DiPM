@@ -1,11 +1,14 @@
-# DiPM
+# DiPM:DecouplingandRecombiningofParametersinLow-Rank AdaptationforModuleAbilityIntegration
 
-# train -- train data
+<img width="623" height="412" alt="1767765801596" src="https://github.com/user-attachments/assets/701e4fc7-34e4-4c8a-a5ef-92331830c617" />
 
-# test -- test data
 
-# evaluation -- evaluation procedure on the test set
+## train -- train data
 
-# operators -- different defined operators
+## test -- test data
 
-# train_param_setting -- parameter settings for model training using llama_factory
+## evaluation -- evaluation procedure on the test set
+
+## operators -- different defined operators
+
+## train_param_setting -- parameter settings for model training using llama_factory
