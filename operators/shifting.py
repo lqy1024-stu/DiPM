@@ -26,7 +26,7 @@ def induce(w1, w2, theta):
     u2 = w2 / (w2.norm() + 1e-8)
     new_w1 = (1-theta)*u1 + theta*u2
     new_u1 = new_w1 / (new_w1.norm() + 1e-8)
-    new_vec = new_u1 * w2.norm()
+    new_vec = new_u1
     return new_vec 
 
 for name in lora_weights1.keys():
