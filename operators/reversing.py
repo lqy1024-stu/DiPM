@@ -50,7 +50,7 @@ for i in np.where(outliers)[0]:
     if "lora_A" in name:
         w1 = lora_weights1[name].flatten()
         w2 = lora_weights2[name].flatten()
-        new_w1 = - (w2 / w2.norm()) * w1.norm()
+        new_w1 = - (w2 / w2.norm())
         # 恢复原形状
         lora_weights1[name] = new_w1.view_as(lora_weights1[name])
 
