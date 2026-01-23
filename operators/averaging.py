@@ -34,7 +34,7 @@ for name in lora_weights1.keys():
         w4_unit = w4 / (w4.norm() + 1e-8)
         mean_unit = (w1_unit + w2_unit + w3_unit + w4_unit) / 4
         mean_unit = mean_unit / (mean_unit.norm() + 1e-8)
-        w1_new = mean_unit * (w1+w2+w3+w4).norm()
+        w1_new = mean_unit
         lora_weights1[name] = w1_new.view_as(lora_weights1[name])
 
 
